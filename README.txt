@@ -12,8 +12,7 @@ and need not to enter user credentials when entering the netucate activity.
 INSTALL INSTRUCTIONS
 ====================
 Create a directory called "netucate" in your "mod" directory and copy all the files for this module into the "netucate"
-directory.  Log in to your Moodle site as an administrator and click on the "notifications" link in the Adminsitration block and
-ensure all tables were setup correctly.
+directory.  Log in to your Moodle site as an administrator and click on the "notifications" link in the Adminsitration block and ensure all tables were setup correctly.
 
 You will then be prompted to enter details about your netucate iLinc server connection.
 
